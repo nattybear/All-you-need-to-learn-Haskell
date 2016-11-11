@@ -11,6 +11,7 @@ I decided to upload some of the resources I used to learn Haskell and become the
 
 Some useful links:
 Set up Atom.io for developing Haskell on OS X: http://www.jkrause.io/blog/2016/03/26/setup-atom-io-for-developing-haskell-on-osx/
+Hoogle: https://www.haskell.org/hoogle/
 Parsing: http://jakewheat.github.io/intro_to_parsing/#getting-started
 School of Haskell: https://www.schoolofhaskell.com/
 GETTING STARTED WITH STACK: http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html
