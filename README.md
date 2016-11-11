@@ -9,7 +9,7 @@ Functional Programming is about describing what the answer should be instead of 
 
 I decided to upload some of the resources I used to learn Haskell and become the Haskell mastermind I am today :). This collection includes material for absolute beginners, intermediate Haskellers, and more advanced programmers to ideally suit everyone’s needs.
 
-Some useful links:
+Some useful links:\n
 Set up Atom.io for developing Haskell on OS X: http://www.jkrause.io/blog/2016/03/26/setup-atom-io-for-developing-haskell-on-osx/
 Hoogle: https://www.haskell.org/hoogle/
 Parsing: http://jakewheat.github.io/intro_to_parsing/#getting-started
