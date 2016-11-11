@@ -22,6 +22,8 @@ My recomendation: (DO NOT READ REAL WORLD HASKELL, IT SUCKS)
 
 2)
 
+
+
 YOU MUST READ THESE TO UNDERSTAND MONADS
 
    All About Monads
@@ -35,6 +37,8 @@ YOU MUST READ THESE TO UNDERSTAND MONADS
    Why Monads Matter
 
 3)
+
+
 
 DO SOME OF THESE TO REALLY MASTER THE LANGUAGE
 
@@ -53,6 +57,11 @@ THESE ARE THE BEST (But only for advanced haskellers)
    Write yourself a Scheme in 48 hours
    
    Implementing a JIT Compiled Language with Haskell and LLVM: http://www.stephendiehl.com/llvm/
+
+
+
+
+
 
 
 Some more useful links:
