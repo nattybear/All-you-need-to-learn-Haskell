@@ -11,29 +11,47 @@ I decided to upload some of the resources I used to learn Haskell and become the
 
 1)
 My recomendation: (DO NOT READ REAL WORLD HASKELL, IT SUCKS)
+
 1) Learn you a Haskell for great good.
+
 2) Haskell programming from first principles
+
 3) Haskell and Yesod
+
 4) (Optional, but very good book) The haskell school of expression
 
 2)
+
 YOU MUST READ THESE TO UNDERSTAND MONADS
+
    All About Monads
+   
    State in Haskell
+   
    The State Monad another tutorial
+   
    The State Monad
+   
    Why Monads Matter
 
 3)
+
 DO SOME OF THESE TO REALLY MASTER THE LANGUAGE
+
    Basic Haskell Examples
+   
    Haskell Web Programming
+   
    Holy Haskell Project Starter
+   
    Roll your own IRC bot
    
 THESE ARE THE BEST (But only for advanced haskellers)
+
    Write you a haskell
+   
    Write yourself a Scheme in 48 hours
+   
    Implementing a JIT Compiled Language with Haskell and LLVM: http://www.stephendiehl.com/llvm/
 
 
